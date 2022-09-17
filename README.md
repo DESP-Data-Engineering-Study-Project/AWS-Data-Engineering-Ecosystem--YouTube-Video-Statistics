@@ -1,5 +1,5 @@
 # Generic-Python-Project-Template
-Imported from sample generic-python-project-template
+Imported from sample generic-python-project-template.
 
 ## STEPS -
 
