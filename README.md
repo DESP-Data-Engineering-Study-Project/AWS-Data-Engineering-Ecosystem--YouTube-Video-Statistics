@@ -1,5 +1,5 @@
 # Generic-Python-Project-Template
-generic-python-project-template
+ from sample generic-python-project-template
 
 ## STEPS -
 
