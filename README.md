@@ -27,3 +27,6 @@ pip install -r requirements.txt
 ```
 
 ### STEP 06- commit and push the changes to the remote repository
+
+Data Ingestion Flow
+![image](https://user-images.githubusercontent.com/111631055/190876701-546d5c5a-ed8e-4d51-b0e5-c88a8987f843.png)
